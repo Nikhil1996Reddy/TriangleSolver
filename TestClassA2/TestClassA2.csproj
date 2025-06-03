@@ -81,6 +81,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class2.cs" />
     <Compile Include="D:\My personal space\Software Quality\Class1.cs">
       <Link>Class1.cs</Link>
     </Compile>
